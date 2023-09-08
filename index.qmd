@@ -1,7 +1,18 @@
 ---
-title: "website"
+title: "Leon Cyro Reteig"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lcreteig
+    - icon: mastodon
+      text: Mastodon
+      href: https://data-folks.masto.host/@leonreteig
+    - icon: linkedin
+      text: LinkedIn
+      href: https://data-folks.masto.host/@leonreteig
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a data scientist and post-doctoral researcher at University Medical Center Utrecht. Before I switched to medical data science, I obtained a PhD in Cognitive Neuroscience from the University of Amsterdam.
