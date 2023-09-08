@@ -5,6 +5,8 @@ website:
   title: "Leon Reteig"
   navbar:
     logo: icon.png
+  page-footer:
+    center: "Made by Leon Reteig, with [Quarto](https://quarto.org/) | {{< iconify mdi github >}}"
 
 format:
   html:
