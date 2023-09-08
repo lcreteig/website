@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6d63d3bd-729b-40b1-bc4c-ee684b742955
+      url: 'https://lcreteig.netlify.app'
