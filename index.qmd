@@ -13,6 +13,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://data-folks.masto.host/@leonreteig
+    - text: "{{< iconify academicons google-scholar-square >}} Google Scholar" 
+      href: https://scholar.google.com/citations?user=JM96ebEAAAAJ&hl=en
 ---
 
 I'm a data scientist and post-doctoral researcher at University Medical Center Utrecht. Before I switched to medical data science, I obtained a PhD in Cognitive Neuroscience from the University of Amsterdam.
