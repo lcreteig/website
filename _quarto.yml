@@ -3,6 +3,9 @@ project:
 
 website:
   title: "Leon Reteig"
+  description: "Leon Reteig's personal website"
+  favicon: icon.png
+  open-graph: true
   navbar:
     logo: icon.png
   page-footer:
