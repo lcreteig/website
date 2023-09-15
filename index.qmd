@@ -1,6 +1,8 @@
 ---
 title: "Leon Cyro Reteig"
+toc: false
 about:
+  id: hero-heading
   template: jolla
   image: profile.jpg
   links:
@@ -19,4 +21,38 @@ about:
       href: https://orcid.org/0000-0002-5814-0992
 ---
 
-I'm a data scientist and post-doctoral researcher at University Medical Center Utrecht. Before I switched to medical data science, I obtained a PhD in Cognitive Neuroscience from the University of Amsterdam.
+:::{#hero-heading}
+
+Data scientist and post-doctoral researcher at the [Center for Translational Immunology](https://www.umcutrecht.nl/en/center-for-translational-immunology), University Medical Center Utrecht (fully remote since moving to Boston, MA).
+
+:::
+
+The goal of my work is the re-use of routine care data to add value to the healthcare process. Currently I mostly manage a large database with clinical and laboratory data on kidney transplants. I make this data easily available for other researchers, enrich it with new information, and analyze and visualize the data to deliver new insights.
+
+I also build diagnostic models of auto-immune and auto-inflammatory disorders, using information from the electronic health record extracted with text mining techniques.
+
+Before switching to data science in the medical domain, I was a PhD student in the [Cognition and Plasticity lab](https://www.heleenslagter.com/) of Prof. Heleen Slagter, funded by an NWO Research Talent grant. [My PhD research](https://lcreteig.github.io/thesis) focused on improving  attention through electrical stimulation of the brain. During my PhD I became a strong supporter of open science principles, and I still strive to make my work as accessible, transparent, and reproducible as possible.
+
+::: {.grid}
+
+::: {.g-col-7}
+
+### {{< iconify fa laptop >}} Skills & interests
+- Clinical data management 
+- Machine learning in medicine
+- Natural language processing of electronic health records
+- Open source software (R, Python, SQL)
+
+:::
+  
+::: {.g-col-5}
+
+### {{< iconify ri graduation-cap-fill >}} Education
+###### _University of Amsterdam_
+- **PhD** Cognitive Neuroscience (2019)
+- **MSc** Brain & Cognitive Sciences (2014)
+- **BSc** Natural & Social Sciences (2011)
+
+:::
+  
+:::  
