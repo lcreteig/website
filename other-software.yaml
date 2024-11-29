@@ -1,0 +1,5 @@
+- title: "Negation detection"
+  date: 2022-08-10
+  path: https://github.com/umcu/negation-detection
+  image: https://zenodo.org/badge/DOI/10.5281/zenodo.6980076.svg
+  description: Python code and trained models for negation detection in Dutch clinical texts

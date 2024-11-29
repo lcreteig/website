@@ -1,0 +1,22 @@
+---
+title: Projects
+toc: false
+listing:
+  - id: package-listings
+    contents: packages.yaml
+    image-height: auto
+    type: grid
+  - id: other-software-listings
+    contents: other-software.yaml
+---
+
+## Packages
+
+::: {#package-listings}
+:::
+
+
+## Other software
+
+::: {#other-sofware-listings}
+:::

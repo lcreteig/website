@@ -1,0 +1,8 @@
+- title: "hlapro"
+  path: https://lcreteig.github.io/hlapro
+  image: https://raw.githubusercontent.com/lcreteig/hlapro/refs/heads/main/man/figures/logo.png
+  description: R package of tools to work with human leukocyte antigen (HLA) typings and single-antigen bead assays
+- title: "amsterdown"
+  path: https://lcreteig.github.io/amsterdown
+  image: https://raw.githubusercontent.com/lcreteig/amsterdown/refs/heads/master/man/figures/logo.png
+  description: An RMarkdown PhD thesis template for the University of Amsterdam

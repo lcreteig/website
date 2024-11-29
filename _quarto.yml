@@ -8,6 +8,8 @@ website:
   open-graph: true
   navbar:
     logo: icon.png
+    right:
+      - projects.qmd
   page-footer:
     center: "Made by Leon Reteig, with [Quarto](https://quarto.org/) | [{{< iconify mdi github >}}](https://github.com/lcreteig/website)"
 
