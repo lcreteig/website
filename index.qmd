@@ -35,7 +35,7 @@ Before switching to data science in the medical domain, I was a PhD student in t
 
 ::: {.grid}
 
-::: {.g-col-7}
+::: {.g-col-6}
 
 ### {{< iconify fa laptop >}} Skills & interests
 - Clinical data management 
@@ -45,7 +45,7 @@ Before switching to data science in the medical domain, I was a PhD student in t
 
 :::
   
-::: {.g-col-5}
+::: {.g-col-6}
 
 ### {{< iconify ri graduation-cap-fill >}} Education
 ###### _University of Amsterdam_
