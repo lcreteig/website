@@ -1,0 +1,17 @@
+---
+title: Publications
+toc: false
+listing:
+  - id: journal-article-listings
+    contents: journal-articles.yaml
+  - id: phd-thesis-listing
+    contents: phd-thesis.qmd
+    fields: [title, subtitle, author, date, image]
+      
+      
+---
+
+## PhD thesis
+
+::: {#phd-thesis-listing}
+:::
