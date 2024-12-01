@@ -1,0 +1,49 @@
+- title: "Memory B-cell derived donor-specific antibodies do not predict outcome in sensitized kidney transplant recipients: a retrospective single-center study"
+  author: Altulea D, van den Born JC, Diepstra A, Bungener L, Terpstra D, Hepkema BG, Lammerts R, Heeringa P, Heidt S, Otten H, <b>Reteig LC</b>, Karahan GE, Berger SP and Sanders J-S
+  year: 2024
+  journal: Frontiers in Immunology
+  paper: https://doi.org/10.3389/fimmu.2024.1360627
+  categories: [immunology]
+- title: Determination of the clinical relevance of donor epitope‐specific HLA‐antibodies in kidney transplantation
+  author: Kardol-Hoefnagel T, Senejohnny DM, Kamburova EG, Wisse BW, <b>Reteig LC</b>, et al.
+  year: 2024
+  journal: HLA
+  paper: https://doi.org/10.1111/tan.15346
+  categories: [immunology]
+- title: Microarray analysis of autoantibodies can identify future Systemic Lupus Erythematosus patients
+  author: Brunekreef TE, <b>Reteig LC</b>, Limper M, Haitjema S, Dias J, Mathsson-Alm L, van Laar JM, Otten HG 
+  year: 2022
+  journal: Human Immunology
+  paper: https://doi.org/10.1016/j.humimm.2022.03.010
+  code: https://umcu.github.io/SLE-autoantibody-prediction/
+  categories: [immunology, data science]
+- title: "Negation detection in Dutch clinical texts: an evaluation of rule-based and machine learning methods"
+  author: van Es B, <b>Reteig LC</b>, Tan SC et al. 
+  year: 2022
+  journal: BMC Bioinformatics
+  paper: https://doi.org/10.1186/s12859-022-05130-x
+  preprint: https://doi.org/10.48550/arXiv.2209.00470
+  code: https://github.com/umcu/negation-detection
+  categories: [data science]
+- title: "Effects of tDCS on the attentional blink revisited: A statistical evaluation of a replication attempt"
+  author: <b>Reteig LC</b>, Newman LA, Ridderinkhof KR, Slagter HA
+  year: 2022
+  journal: PLOS ONE
+  paper: https://doi.org/10.1371/journal.pone.0262718
+  preprint: https://doi.org/10.1101/2021.06.16.448698
+  website: https://lcreteig.github.io/AB-tDCS
+  code: https://github.com/lcreteig/AB-tDCS
+  data: https://doi.org/10.18112/openneuro.ds001810.v1.1.0
+  materials: https://doi.org/10.17605/OSF.IO/Y6HSF
+  categories: [neuroscience, statistics]
+- title: Sustaining attention for a prolonged period of time increases temporal variability in cortical responses
+  author: <b>Reteig LC</b>, van den Brink RL, Prinssen S, Cohen MX, Slagter HA
+  year: 2019
+  journal: Cortex
+  paper: https://doi.org/10.1016/j.cortex.2019.02.016
+  preprint: https://doi.org/10.1101/501544 
+  code: https://doi.org/10.17605/OSF.IO/BNWAP
+  data: https://doi.org/10.17605/OSF.IO/456HE
+  materials: https://doi.org/10.17605/OSF.IO/RZJ2V
+  categories: [neuroscience]
+
