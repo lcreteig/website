@@ -1,0 +1,17 @@
+- title: "Memory B-cell derived donor-specific antibodies do not predict outcome in sensitized kidney transplant recipients: a retrospective single-center study"
+  author: "Altulea D, van den Born JC, Diepstra A, Bungener L, Terpstra D, Hepkema BG, Lammerts R, Heeringa P, Heidt S, Otten H, <b>Reteig LC</b>, Karahan GE, Berger SP and Sanders J-S"
+  year: "2024"
+  journal: "Frontiers in Immunology"
+  paper: https://doi.org/10.3389/fimmu.2024.1360627
+  categories: [immunology]
+- title: "Sustaining attention for a prolonged period of time increases temporal variability in cortical responses"
+  author: "<b>Reteig LC</b>, van den Brink RL, Prinssen S, Cohen MX, Slagter HA"
+  year: "2019"
+  journal: "Cortex"
+  paper: https://doi.org/10.1016/j.cortex.2019.02.016
+  site: https://lcreteig.github.io/MFBrain
+  preprint: https://doi.org/10.1101/501544 
+  code: https://doi.org/10.17605/OSF.IO/BNWAP
+  data: https://doi.org/10.17605/OSF.IO/456HE
+  materials: https://doi.org/10.17605/OSF.IO/RZJ2V
+  categories: [neuroscience]
