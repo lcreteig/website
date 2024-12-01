@@ -1,0 +1,97 @@
+- title: "Memory B-cell derived donor-specific antibodies do not predict outcome in sensitized kidney transplant recipients: a retrospective single-center study"
+  author: Altulea D, van den Born JC, Diepstra A, Bungener L, Terpstra D, Hepkema BG, Lammerts R, Heeringa P, Heidt S, Otten H, <b>Reteig LC</b>, Karahan GE, Berger SP, Sanders J-S
+  year: 2024
+  journal: Frontiers in Immunology
+  paper: https://doi.org/10.3389/fimmu.2024.1360627
+  categories: [immunology]
+- title: Determination of the clinical relevance of donor epitope‐specific HLA‐antibodies in kidney transplantation
+  author: Kardol-Hoefnagel T, Senejohnny DM, Kamburova EG, Wisse BW, <b>Reteig LC</b>, et al.
+  year: 2024
+  journal: HLA
+  paper: https://doi.org/10.1111/tan.15346
+  categories: [immunology]
+- title: Microarray analysis of autoantibodies can identify future Systemic Lupus Erythematosus patients
+  author: Brunekreef TE, <b>Reteig LC</b>, Limper M, Haitjema S, Dias J, Mathsson-Alm L, van Laar JM, Otten HG 
+  year: 2022
+  journal: Human Immunology
+  paper: https://doi.org/10.1016/j.humimm.2022.03.010
+  code: https://umcu.github.io/SLE-autoantibody-prediction/
+  categories: [immunology, data science]
+- title: "Negation detection in Dutch clinical texts: an evaluation of rule-based and machine learning methods"
+  author: van Es B, <b>Reteig LC</b>, Tan SC et al. 
+  year: 2022
+  journal: BMC Bioinformatics
+  paper: https://doi.org/10.1186/s12859-022-05130-x
+  preprint: https://doi.org/10.48550/arXiv.2209.00470
+  code: https://github.com/umcu/negation-detection
+  categories: [data science]
+- title: "Effects of tDCS on the attentional blink revisited: A statistical evaluation of a replication attempt"
+  author: <b>Reteig LC</b>, Newman LA, Ridderinkhof KR, Slagter HA
+  year: 2022
+  journal: PLOS ONE
+  paper: https://doi.org/10.1371/journal.pone.0262718
+  preprint: https://doi.org/10.1101/2021.06.16.448698
+  website: https://lcreteig.github.io/AB-tDCS
+  code: https://github.com/lcreteig/AB-tDCS
+  data: https://doi.org/10.18112/openneuro.ds001810.v1.1.0
+  materials: https://doi.org/10.17605/OSF.IO/Y6HSF
+  categories: [neuroscience, statistics]
+- title: "Identification and prediction of difficult-to-treat rheumatoid arthritis patients in structured and unstructured routine care data: results from a hackathon"
+  author: Messelink MA, Roodenrijs NMT, van Es B, Hulsbergen-Veelken CAR, Jong S, Overmars LM, <b>Reteig LC</b>, et al.
+  year: 2021
+  journal: Arthritis Research & Therapy
+  paper: https://doi.org/10.1186/s13075-021-02560-5
+  categories: [immunology, data science]
+- title: Sustaining attention for a prolonged period of time increases temporal variability in cortical responses
+  author: <b>Reteig LC</b>, van den Brink RL, Prinssen S, Cohen MX, Slagter HA
+  year: 2019
+  journal: Cortex
+  paper: https://doi.org/10.1016/j.cortex.2019.02.016
+  preprint: https://doi.org/10.1101/501544 
+  code: https://doi.org/10.17605/OSF.IO/BNWAP
+  data: https://doi.org/10.17605/OSF.IO/456HE
+  materials: https://doi.org/10.17605/OSF.IO/RZJ2V
+  categories: [neuroscience]
+- title: No evidence that predictions and attention modulate the first feedforward sweep of cortical information processing
+  author: Alilović J, Timmermans B, <b>Reteig LC</b>, van Gaal S, Slagter HA
+  year: 2019
+  journal: Cerebral Cortex
+  paper: https://doi.org/10.1093/cercor/bhz038
+  preprint: https://doi.org/10.1101/351965 
+  categories: [neuroscience]
+- title: No Differential Effects of Two Different Alpha-Band Electrical Stimulation Protocols Over Fronto-Parietal Regions on Spatial Attention
+  author: van Schouwenburg MR, Sörensen LKA, de Klerk R, <b>Reteig LC</b>, Slagter HA
+  year: 2018
+  journal: Frontiers in Neuroscience
+  paper: https://doi.org/10.3389/fnins.2018.00433
+  categories: [neuroscience]
+- title: "No Evidence That Frontal Eye Field tDCS Affects Latency or Accuracy of Prosaccades"
+  author: <b>Reteig LC</b>, Knapen T, Roelofs FJFW, Ridderinkhof KR, Slagter HA
+  year: 2018
+  journal: Frontiers in Neuroscience
+  paper: https://doi.org/10.3389/fnins.2018.00617
+  preprint: https://doi.org/10.1101/351304
+  website: https://lcreteig.github.io/sacc-tDCS/
+  code: https://github.com/lcreteig/sacc-tDCS
+  data: https://doi.org/10.21942/uva.6462770
+  materials: https://doi.org/10.17605/OSF.IO/8JPV9
+  categories: [neuroscience]
+- title: Transcranial electrical stimulation as a tool to enhance attention
+  author: <b>Reteig LC</b>, Talsma LJ, van Schouwenburg MR, Slagter HA
+  year: 2017
+  journal: Journal of Cognitive Enhancement
+  paper: https://doi.org/10.1007/s41465-017-0010-y
+  materials: https://doi.org/10.17605/OSF.IO/KQVAP
+  categories: [neuroscience]
+- title: "Contributions of the ventral striatum to conscious perception: an intracranial EEG study of the attentional blink"
+  author: Slagter HA, Mazaheri A, <b>Reteig LC</b>, Smolders R, Figee M, Mantione M, Schuurman PR, Denys D
+  year: 2017
+  journal: Journal of Neuroscience
+  paper: https://doi.org/10.1523/JNEUROSCI.2282-16.2016
+  categories: [neuroscience]
+- title: "Facilitation and inhibition in attention: Functional dissociation of pre-stimulus alpha activity, P1, and N1 components"
+  author: Slagter HA, Prinssen S, <b>Reteig LC</b>, Mazaheri A
+  year: 2016
+  journal: NeuroImage
+  paper: https://doi.org/10.1016/j.neuroimage.2015.09.058
+  categories: [neuroscience]

@@ -4,12 +4,20 @@ toc: false
 listing:
   - id: journal-article-listings
     contents: journal-articles.yaml
+    template: journal-article.ejs
+    categories: true
+    sort-ui: false
+    filter-ui: true
+    page-size: 10
   - id: phd-thesis-listing
     contents: phd-thesis.qmd
     fields: [title, subtitle, author, date, image]
-      
-      
 ---
+
+## Journal articles
+
+::: {#journal-article-listings}
+:::
 
 ## PhD thesis
 
