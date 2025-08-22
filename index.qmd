@@ -9,9 +9,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lcreteig
-    - icon: mastodon
-      text: Mastodon
-      href: https://data-folks.masto.host/@leonreteig
+    - text: "{{< iconify ri bluesky-fill >}} Bluesky"
+      href: https://bsky.app/profile/leonreteig.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/leon-reteig
