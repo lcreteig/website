@@ -1,3 +1,9 @@
+- title: "Can Large Language Models Diagnose Primary Immunodeficiency from Patient-Described Symptoms?"
+  author: <b>Reteig LC</b>, Woloshin S, Maglione PJ, Farmer JR, Ong M-S
+  year: 2026
+  journal: medRxiv
+  preprint: https://doi.org/10.64898/2026.05.26.26353818
+  categories: [immunology, data science]
 - title: "Clara Cell 16 kDa Protein (CC16): An important marker for COVID-19 severity"
   author: Kardol-Hoefnagel T, Luijk B, <b>Reteig LC</b>, Haitjema S, Leavis HL, Otten HG
   year: 2025
